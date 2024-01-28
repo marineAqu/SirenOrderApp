@@ -22,3 +22,8 @@
 - `details_of_menu.xml`: 각 메뉴의 세부 옵션 선택을 위한 화면
 - `checkorder.xml`: 주문 내역 확인 및 수정을 위한 화면
 - `activity_pay.xml`: 결제 화면
+
+
+## 3. 영상
+https://github.com/marineAqu/SirenOrderApp/assets/102001809/53e41d6c-e37b-43fa-a576-d880107b8660
+
