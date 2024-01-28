@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BlankFragment2"
+    android:orientation="vertical">
+            <Button
+                android:id="@+id/bakebagel"
+                android:drawableLeft="@drawable/bakebagelsize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="베이글\n\n5000원"
+                android:bufferType="spannable"/>
+
+            <Button
+                android:id="@+id/bakebrownie"
+                android:drawableLeft="@drawable/bakebrowniesize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="초코 가득 브라우니\n\n5500원"/>
+            <Button
+                android:id="@+id/bakecinna"
+                android:drawableLeft="@drawable/bakecinnasize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="시나몬롤\n\n5000원" />
+            <Button
+                android:id="@+id/bakemacar"
+                android:drawableLeft="@drawable/bakemacarsize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="마카롱 5구\n\n6000원" />
+            <Button
+                android:id="@+id/bakewaff"
+                android:drawableLeft="@drawable/bakewaffsize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="와플\n\n4000원" />
+</LinearLayout>

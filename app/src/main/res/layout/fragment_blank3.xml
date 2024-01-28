@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BlankFragment3"
+    android:orientation="vertical">
+            <Button
+                android:id="@+id/cakechoco"
+                android:drawableLeft="@drawable/cakechocosize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="초코 크림 케이크\n\n5200원"/>
+
+            <Button
+                android:id="@+id/cakegreen"
+                android:drawableLeft="@drawable/cakegreensize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="녹차 크레이프 케이크\n\n6000원"/>
+            <Button
+                android:id="@+id/cakestrawch"
+                android:drawableLeft="@drawable/cakestrawchsize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="딸기 치즈 케이크\n\n5200원" />
+            <Button
+                android:id="@+id/cakestrawroll"
+                android:drawableLeft="@drawable/cakestrawrollsize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="딸기 생크림 롤케이크\n\n6000원" />
+            <Button
+                android:id="@+id/cakestrocream"
+                android:drawableLeft="@drawable/cakestrocreamsize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="딸기 크림 케이크\n\n5500원" />
+</LinearLayout>

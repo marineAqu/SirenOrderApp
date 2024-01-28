@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/logo">
+
+    <TextView
+        android:id="@+id/shopNameTv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_above="@+id/Sv"
+        android:textColor="@color/white"
+        android:textSize="18dp"
+        android:text="-지점에서 결제한"
+        android:background="#75292929"/>
+<ScrollView
+    android:id="@+id/Sv"
+    android:layout_width="match_parent"
+    android:layout_height="400dp"
+    android:background="#75292929"
+    android:layout_centerInParent="true">
+    <TextView
+        android:id="@+id/menuListTv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textSize="19dp"
+        android:text="메뉴 나열 텍스트뷰" />
+</ScrollView>
+
+    <TextView
+        android:id="@+id/orderTypeTv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Sv"
+        android:text="-주문이 성공적으로 결제되었습니다.\n이용해주셔서 감사합니다."
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="18dp"
+        android:background="#75292929"/>
+</RelativeLayout>

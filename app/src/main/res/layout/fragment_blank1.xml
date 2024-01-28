@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BlankFragment1"
+    android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="커피류" />
+
+            <Button
+                android:id="@+id/espresso"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:drawableLeft="@drawable/espressosize"
+                android:textColor="@color/black"
+                android:text="에소프레소\n\n3000원"/>
+
+            <Button
+                android:id="@+id/americano"
+                android:drawableLeft="@drawable/americanosize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="아메리카노\n\n3200원"/>
+            <Button
+                android:id="@+id/cafelatte"
+                android:drawableLeft="@drawable/cafelattesize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="카페 라떼\n\n4000원" />
+            <Button
+                android:id="@+id/caramel"
+                android:drawableLeft="@drawable/caramelsize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="카라멜 마끼아또\n\n4500원" />
+            <Button
+                android:id="@+id/cafemoka"
+                android:drawableLeft="@drawable/cafemokasize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="카페 모카\n\n4500원" />
+            <Button
+                android:id="@+id/cappuccino"
+                android:drawableLeft="@drawable/cappuccinosize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="카푸치노\n\n4500원" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="논커피류" />
+            <Button
+                android:id="@+id/chocolatte"
+                android:drawableLeft="@drawable/chocolattesize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="초코 라떼\n\n4800원" />
+            <Button
+                android:id="@+id/strawlatte"
+                android:drawableLeft="@drawable/strawlattesize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="딸기 라떼\n\n5000원" />
+            <Button
+                android:id="@+id/rainbowade"
+                android:drawableLeft="@drawable/rainbowadesize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="레인보우 에이드\n\n4200원" />
+            <Button
+                android:id="@+id/lemonade"
+                android:drawableLeft="@drawable/lemonadesize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="레모네이드\n\n4200원" />
+            <Button
+                android:id="@+id/limeade"
+                android:drawableLeft="@drawable/limeadesize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="라임 에이드\n\n4200원" />
+            <Button
+                android:id="@+id/strawsmoothie"
+                android:drawableLeft="@drawable/strawsmoothiesize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="딸기 스무디\n\n4800원" />
+            <Button
+                android:id="@+id/chobasmooth"
+                android:drawableLeft="@drawable/chobasmoothsize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="초코바나나 스무디\n\n4800원" />
+            <Button
+                android:id="@+id/lemontea"
+                android:drawableLeft="@drawable/lemonteasize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:text="레몬차\n\n3500원" />
+        </LinearLayout>
+
+</ScrollView>

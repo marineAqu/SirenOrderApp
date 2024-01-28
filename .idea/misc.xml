@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/americanosize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/bakebagelsize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/bakebrowniesize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/bakecinnasize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/bakemacarsize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/bakewaffsize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/cafelatte.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/cafelattesize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/cafemokasize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/cakechocosize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/cakegreensize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/cakestrawchsize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/cakestrawrollsize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/cakestrocreamsize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/cappuccinosize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/caramelsize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/chobasmoothsize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/chocolattesize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/control_of_img.xml" value="0.187" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/espressosize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.187" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/lemonadesize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/lemonteasize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/limeadesize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/rainbowadesize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/strawlattesize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/drawable/strawsmoothiesize.xml" value="0.106" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/layout/activity_main.xml" value="0.16569767441860464" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/layout/activity_pay.xml" value="0.213671875" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/layout/check_of_order.xml" value="0.22" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/layout/checkorder.xml" value="0.22" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/layout/details_of_menu.xml" value="0.15833333333333333" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/layout/fragment_blank1.xml" value="0.25" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/layout/fragment_blank2.xml" value="0.28541666666666665" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/layout/fragment_blank3.xml" value="0.28541666666666665" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/layout/logo.xml" value="0.22" />
+        <entry key="..\:/Users/cheln/AndroidStudioProjects/LastTaskTest/app/src/main/res/layout/selectmenu.xml" value="0.18566775244299674" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
